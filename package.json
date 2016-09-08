@@ -1,0 +1,31 @@
+{
+  "name": "eslint-config-leonis",
+  "version": "0.0.1",
+  "description": "ESLint config for Leonis&Co. projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/leonis/eslint-config-leonis.git"
+  },
+  "author": "devops@leonisand.co",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonis/eslint-config-leonis/issues"
+  },
+  "homepage": "https://github.com/leonis/eslint-config-leonis#readme",
+  "engines": {
+    "node": ">= 4.3.2"
+  },
+  "dependencies": {
+    "eslint-config-google": "^0.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.4.0"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3.4.0"
+  }
+}
