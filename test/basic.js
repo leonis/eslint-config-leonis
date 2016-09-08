@@ -1,13 +1,10 @@
 'use strict';
 
-const config = require('../');
+const config = require('../index.js');
 const test = require('tape');
+const isPlainObject = require('is-plain-obj');
 
-test('test basic properties of config', function (t) {
-  t.ok(isObject(config.rules));
-  t.end();
+test('test basic properties of config', function (assert) {
+  assert.ok(isPlainObject(config.rules));
+  assert.end();
 });
-
-function isObject(obj) {
-  return obj !== null && typeof obj !== 'undefined' && Object(obj) === obj;
-}
