@@ -12,7 +12,7 @@ $ npm install --save-dev eslint eslint-config-leonis
 
 ## `npm run lint`
 
-Add some ESlint config to your pckage.json:
+Add some ESlint config to your package.json:
 
 ```
   "scripts": {
