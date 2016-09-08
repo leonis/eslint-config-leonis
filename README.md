@@ -15,7 +15,7 @@ $ npm install --save-dev eslint eslint-config-leonis
 Add some ESlint config to your pckage.json:
 
 ```
-  "script": {
+  "scripts": {
     "lint": "eslint ."
   },
   "devDependencies": {
