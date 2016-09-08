@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/leonis/eslint-config-leonis.svg)](https://travis-ci.org/leonis/eslint-config-leonis)
+
 # eslint-config-leonis
 
 ESLint config for Leonis&amp;Co. projects.
