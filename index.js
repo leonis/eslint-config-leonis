@@ -7,6 +7,12 @@ module.exports = {
       "destructuring": "any",
       "ignoreReadBeforeAssign": false
     }],
-    "no-var": 2
+    "no-var": 2,
+    "camelcase": ["error", {
+      "properties": "never"
+    }],
+    "new-cap": ["error", {
+      "capIsNew": false
+    }]
   }
 };
