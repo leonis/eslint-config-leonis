@@ -9,7 +9,6 @@ const cli = new eslint.CLIEngine({
 });
 
 test('when const is valid variable type', function(assert) {
-
   const code = 'const foo = 1;\nconst bar = function() {};\nbar(foo);\n';
   const expected = 0;
 

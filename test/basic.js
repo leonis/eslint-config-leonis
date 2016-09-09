@@ -1,5 +1,3 @@
-'use strict';
-
 const config = require('../index.js');
 const test = require('tape');
 const isPlainObject = require('is-plain-obj');
