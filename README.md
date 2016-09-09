@@ -32,6 +32,12 @@ Add some ESlint config to your package.json:
 
 Then lint with `$ npm run lint`.
 
+# Test
+
+```
+$ npm run test
+```
+
 # License
 
 see README.
