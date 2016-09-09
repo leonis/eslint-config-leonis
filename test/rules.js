@@ -14,5 +14,4 @@ test('when const is valid variable type', function(assert) {
 
   assert.equal(cli.executeOnText(code).errorCount, expected);
   assert.end();
-
 });
