@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/leonis/eslint-config-leonis.svg)](https://travis-ci.org/leonis/eslint-config-leonis)
+
 # eslint-config-leonis
 
 ESLint config for Leonis&amp;Co. projects.
@@ -12,7 +14,7 @@ $ npm install --save-dev eslint eslint-config-leonis
 
 ## `npm run lint`
 
-Add some ESlint config to your pckage.json:
+Add some ESlint config to your package.json:
 
 ```
   "scripts": {
@@ -29,6 +31,12 @@ Add some ESlint config to your pckage.json:
 ```
 
 Then lint with `$ npm run lint`.
+
+# Test
+
+```
+$ npm run test
+```
 
 # License
 
