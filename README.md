@@ -12,9 +12,11 @@ $ npm install --save-dev eslint eslint-config-leonis
 
 # Usage
 
-## `npm run lint`
+```
+$ npm run lint
+```
 
-Add some ESlint config to your package.json:
+Add some eslint config to your package.json:
 
 ```
   "scripts": {
@@ -29,8 +31,6 @@ Add some ESlint config to your package.json:
   }
 }
 ```
-
-Then lint with `$ npm run lint`.
 
 # Test
 
