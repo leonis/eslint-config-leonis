@@ -35,7 +35,7 @@ Add some eslint config to your package.json:
 # Test
 
 ```
-$ npm run test
+$ npm test
 ```
 
 # License
