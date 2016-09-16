@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/leonis/eslint-config-leonis.svg)](https://travis-ci.org/leonis/eslint-config-leonis)
+[![CircleCI](https://circleci.com/gh/leonis/eslint-config-leonis.svg?style=svg)](https://circleci.com/gh/leonis/eslint-config-leonis)
 
 # eslint-config-leonis
 
