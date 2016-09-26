@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/leonis/eslint-config-leonis.svg)](https://travis-ci.org/leonis/eslint-config-leonis)
+[![CircleCI](https://circleci.com/gh/leonis/eslint-config-leonis.svg?style=svg)](https://circleci.com/gh/leonis/eslint-config-leonis)
 
 # eslint-config-leonis
 
@@ -12,9 +12,11 @@ $ npm install --save-dev eslint eslint-config-leonis
 
 # Usage
 
-## `npm run lint`
+```
+$ npm run lint
+```
 
-Add some ESlint config to your package.json:
+Add some eslint config to your package.json:
 
 ```
   "scripts": {
@@ -30,12 +32,10 @@ Add some ESlint config to your package.json:
 }
 ```
 
-Then lint with `$ npm run lint`.
-
 # Test
 
 ```
-$ npm run test
+$ npm test
 ```
 
 # License
