@@ -13,6 +13,7 @@ module.exports = {
     }],
     "new-cap": ["error", {
       "capIsNew": false
-    }]
+    }],
+    "arrow-parens": ["error", "always"]
   }
 };
