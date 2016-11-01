@@ -7,6 +7,7 @@ module.exports = {
       "destructuring": "any",
       "ignoreReadBeforeAssign": false
     }],
+    "prefer-template": ["error"],
     "no-var": 2,
     "camelcase": ["error", {
       "properties": "never"
