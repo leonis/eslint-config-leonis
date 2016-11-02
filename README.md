@@ -40,4 +40,4 @@ $ npm test
 
 # License
 
-see README.
+see [LICENSE](https://github.com/leonis/eslint-config-leonis/blob/master/LICENSE).
