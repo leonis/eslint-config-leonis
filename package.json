@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-leonis",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "ESLint config for Leonis&Co. projects.",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/leonis/eslint-config-leonis.git"
   },
-  "author": "devops@leonisand.co",
+  "author": "dev.js@leonisand.co",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/leonis/eslint-config-leonis/issues"
