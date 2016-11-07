@@ -1,8 +1,8 @@
-[![CircleCI](https://circleci.com/gh/leonis/eslint-config-leonis.svg?style=svg)](https://circleci.com/gh/leonis/eslint-config-leonis)
-
-# eslint-config-leonis
+# eslint-config-leonis [![npm version](https://badge.fury.io/js/eslint-config-leonis.svg)](https://badge.fury.io/js/eslint-config-leonis)
 
 ESLint config for Leonis&amp;Co. projects.
+
+[![CircleCI](https://circleci.com/gh/leonis/eslint-config-leonis.svg?style=svg)](https://circleci.com/gh/leonis/eslint-config-leonis)
 
 # Install
 
