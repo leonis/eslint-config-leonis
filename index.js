@@ -19,7 +19,8 @@ module.exports = {
     "max-len": ["error", {
       "code": 100,
       "ignoreComments": true,
-      "ignoreUrls": true
+      "ignoreUrls": true,
+      "ignoreTemplateLiterals": true
     }]
   }
 };
