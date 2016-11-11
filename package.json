@@ -1,9 +1,10 @@
 {
   "name": "eslint-config-leonis",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "ESLint config for Leonis&Co. projects.",
   "main": "index.js",
   "scripts": {
+    "publish": "publish",
     "test": "tape test/*.js"
   },
   "repository": {
@@ -25,6 +26,7 @@
   "devDependencies": {
     "eslint": "^3.4.0",
     "is-plain-obj": "^1.1.0",
+    "publish": "^0.6.0",
     "tape": "^4.6.0",
     "temp-write": "^2.1.0"
   },
