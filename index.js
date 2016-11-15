@@ -2,6 +2,11 @@
 
 module.exports = {
   extends: 'google',
+  env: {
+    node: true,
+    es6: true,
+    mocha: true
+  },
   rules: {
     "prefer-const": ["error", {
       "destructuring": "any",
