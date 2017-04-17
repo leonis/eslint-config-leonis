@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-leonis",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "ESLint config for Leonis&Co. projects.",
   "main": "index.js",
   "scripts": {
