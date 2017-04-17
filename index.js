@@ -26,6 +26,7 @@ module.exports = {
       "ignoreComments": true,
       "ignoreUrls": true,
       "ignoreTemplateLiterals": true
-    }]
+    }],
+    "no-console": ["error"]
   }
 };
